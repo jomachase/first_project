@@ -1,20 +1,26 @@
-import pandas as pd
+# Add all the imports needed by the functions in the project here
+#================================================================
+#
+#================================================================
 
-def clean_gender(gender: str) -> str:
-	if gender in ["M", "F"]:
-		return gender
-	elif gender in ["m", "male", "Male"]:
-		return "M"
-	elif gender in ["f", "female", "Female"]:
-		return "F"
-	else:
-		return "Unknown"
+# Remember to modify your functions to use the template shown below
 
-def clean_colum_names(df: pd.DataFrame) -> pd.DataFrame:
-	df2 = df.copy()
+def function_name(input1: data_type1, input2: data_type2,..., opt_arg: data_type_opt= default_value) -> output_data_type:
+	"""
+	Add a description of what the function does
+
+	Arguments:
+	---------
+	input1: data_type and which information should contain
+	input2: data_type and which information should contain
+	opt_arg: data_type and which information should contain
+
+	Outputs:
+	-------
+	data_type and which information will contain
+	"""
 	
-	df2.columns = [ col.replace(" ","_") for col in df2.columns ]
+	# Your function code here
 
-	return df2
-
-
+	
+	return opuput
