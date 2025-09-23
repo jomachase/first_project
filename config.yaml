@@ -1,5 +1,5 @@
 input_data:
-  file: "../data/raw/raw_data_file.csv"
+  file: "../data/raw/Berlin_Marathon_data_1974_2019.csv"
 
 output_data:
   file: "../data/clean/cleaned_data_file.csv"
