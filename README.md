@@ -124,6 +124,8 @@ first_project/
 ├── 📂 notebooks
 ├── 📂 slides
 ├── 📂 sql_scripts
+├── 📂 src
+│ └── 📄 functions.py
 │
 ├── 📄 config.yaml
 ├── 📄 main.py
