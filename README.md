@@ -36,7 +36,8 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 ### **2. Gender time scores difference 
 of female and male winner (Kinga)**  
 - What is the time difference between male and female winners?  
-- Has the gender time scores difference decreased over the years?  
+- Has the gender time scores difference decreased over the years? 
+
 
 ### **3. Country dominance (Irma)**  
 - Which countries have produced the most winners in the Berlin Marathon?  
@@ -87,14 +88,15 @@ For analysis, we used:
 - Time results changed over the years for both genders.  
 - The gender time scores difference has decreased.  
 
+
 ### **3. Country dominance (Irma)**  
 - **Kenya (25 wins)** and **Ethiopia (20 wins)** dominate the overall history.  
 - In early decades, winners came mainly from Europe (West Germany, UK).  
 - Since the 1990s, East African countries have taken the lead.  
 
 ### **4. Female participation (Joma)**  
-- Female participation has increased explosively since 1974. There has been a 40% increase in   
-- Distribution of finishing times for female runners is approaching that of male runners, especially in recent years.  
+- Female participation has increased explosively since 1974 (5.0%). There has been a average 40% increase in female participation.In 2024: there is a 45% increase.
+- Time gap between finishing times for female runners and male runners is steadily decreasing. In 1974, the time gap was at 61.3 min. As of 20204,  it is now at a 30.4 min difference.  At this current rate, times will be equal in 49 years
 
 ---
 
@@ -125,9 +127,7 @@ first_project/
 ├── 📂 notebooks
 ├── 📂 slides
 ├── 📂 sql_scripts
-├── 📂 src
-│ └── 📄 functions.py
-│
+
 ├── 📄 config.yaml
 ├── 📄 main.py
 ├── 📄 pyproject.toml
