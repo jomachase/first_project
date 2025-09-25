@@ -92,7 +92,7 @@ For analysis, we used:
 - Since the 1990s, East African countries have taken the lead.  
 
 ### **4. Female participation (Joma)**  
-- Female participation has increased steadily since 1974.  
+- Female participation has increased explosively since 1974. There has been a 40% increase in   
 - Distribution of finishing times for female runners is approaching that of male runners, especially in recent years.  
 
 ---
