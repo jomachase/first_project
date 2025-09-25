@@ -33,9 +33,11 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 - How have winning times evolved in the Berlin Marathon from 1974 to 2024?  
 - Are world records being broken more frequently in Berlin than in other marathons?  
 
-### **2. Gender gap (Kinga)**  
+### **2. Gender time scores difference 
+of female and male winner (Kinga)**  
 - What is the time difference between male and female winners?  
 - Has the gender time scores difference decreased over the years? 
+
 
 ### **3. Country dominance (Irma)**  
 - Which countries have produced the most winners in the Berlin Marathon?  
@@ -82,9 +84,10 @@ For analysis, we used:
 - Berlin is the **leading marathon for world records**, hosting nearly all men’s records since 2003 and the women’s record in 2023.  
 - This far surpasses other cities like London or Chicago.
 
-### **2. Gender gap (Kinga)**  
+### **2. Gender time scores difference (Kinga)**  
 - Time results changed over the years for both genders.  
-- The gender time scores difference has decreased. 
+- The gender time scores difference has decreased.  
+
 
 ### **3. Country dominance (Irma)**  
 - **Kenya (25 wins)** and **Ethiopia (20 wins)** dominate the overall history.  
@@ -99,7 +102,7 @@ For analysis, we used:
 
 ## **Conclusions**
 - **Hypothesis 1:** Supported – Winning times have consistently improved; men are near the 2h01 barrier and women set a breakthrough with 2h11 in 2023. Berlin is confirmed as the fastest course, with nearly all world records since 2003.  
-- **Hypothesis 2:** Supported – The performance gap between men and women has narrowed.  
+- **Hypothesis 2:** Supported – The performance gap score between men and women has narrowed.  
 - **Hypothesis 3:** Supported – African participation and victories have grown strongly (Kenya and Ethiopia lead since the 1990s).  
 - **Hypothesis 4:** Supported – Female participation has risen steadily since 1974.  
 
