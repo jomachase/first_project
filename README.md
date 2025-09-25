@@ -35,7 +35,7 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 
 ### **2. Gender gap (Kinga)**  
 - What is the time difference between male and female winners?  
-- Has the gender gap decreased over the years?  
+- Has the gender time scores difference decreased over the years? 
 
 ### **3. Country dominance (Irma)**  
 - Which countries have produced the most winners in the Berlin Marathon?  
@@ -49,7 +49,7 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 
 ## **Hypotheses**
 1. Winning times in the Berlin Marathon have significantly improved over the years.  
-2. The performance gap between men and women has decreased over time.  
+2. The time score difference between men and women has decreased over time.  
 3. The number of participants from Africa has increased over the years.  
 4. Female participation has increased since 1974.  
 
@@ -84,7 +84,7 @@ For analysis, we used:
 
 ### **2. Gender gap (Kinga)**  
 - Time results changed over the years for both genders.  
-- The gap between genders has decreased.  
+- The gender time scores difference has decreased. 
 
 ### **3. Country dominance (Irma)**  
 - **Kenya (25 wins)** and **Ethiopia (20 wins)** dominate the overall history.  
@@ -92,8 +92,8 @@ For analysis, we used:
 - Since the 1990s, East African countries have taken the lead.  
 
 ### **4. Female participation (Joma)**  
-- Female participation has increased explosively since 1974. There has been a 40% increase in   
-- Distribution of finishing times for female runners is approaching that of male runners, especially in recent years.  
+- Female participation has increased explosively since 1974 (5.0%). There has been a average 40% increase in female participation.In 2024: there is a 45% increase.
+- Time gap between finishing times for female runners and male runners is steadily decreasing. In 1974, the time gap was at 61.3 min. As of 20204,  it is now at a 30.4 min difference.  At this current rate, times will be equal in 49 years
 
 ---
 
@@ -124,9 +124,7 @@ first_project/
 ├── 📂 notebooks
 ├── 📂 slides
 ├── 📂 sql_scripts
-├── 📂 src
-│ └── 📄 functions.py
-│
+
 ├── 📄 config.yaml
 ├── 📄 main.py
 ├── 📄 pyproject.toml
