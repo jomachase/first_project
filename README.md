@@ -33,9 +33,11 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 - How have winning times evolved in the Berlin Marathon from 1974 to 2024?  
 - Are world records being broken more frequently in Berlin than in other marathons?  
 
-### **2. Gender gap (Kinga)**  
+### **2. Gender time scores difference 
+of female and male winner (Kinga)**  
 - What is the time difference between male and female winners?  
-- Has the gender gap decreased over the years?  
+- Has the gender time scores difference decreased over the years? 
+
 
 ### **3. Country dominance (Irma)**  
 - Which countries have produced the most winners in the Berlin Marathon?  
@@ -49,7 +51,7 @@ We used **two datasets**, both of which were cleaned and transformed before anal
 
 ## **Hypotheses**
 1. Winning times in the Berlin Marathon have significantly improved over the years.  
-2. The performance gap between men and women has decreased over time.  
+2. The time score difference between men and women has decreased over time.  
 3. The number of participants from Africa has increased over the years.  
 4. Female participation has increased since 1974.  
 
@@ -82,9 +84,10 @@ For analysis, we used:
 - Berlin is the **leading marathon for world records**, hosting nearly all men’s records since 2003 and the women’s record in 2023.  
 - This far surpasses other cities like London or Chicago.
 
-### **2. Gender gap (Kinga)**  
+### **2. Gender time scores difference (Kinga)**  
 - Time results changed over the years for both genders.  
-- The gap between genders has decreased.  
+- The gender time scores difference has decreased.  
+
 
 ### **3. Country dominance (Irma)**  
 - **Kenya (25 wins)** and **Ethiopia (20 wins)** dominate the overall history.  
@@ -92,14 +95,14 @@ For analysis, we used:
 - Since the 1990s, East African countries have taken the lead.  
 
 ### **4. Female participation (Joma)**  
-- Female participation has increased explosively since 1974 (5.0%). There has been a average 40% increase in female participation.In 2024: there is a 45% increase. 
+- Female participation has increased explosively since 1974 (5.0%). There has been a average 40% increase in female participation.In 2024: there is a 45% increase.
 - Time gap between finishing times for female runners and male runners is steadily decreasing. In 1974, the time gap was at 61.3 min. As of 20204,  it is now at a 30.4 min difference.  At this current rate, times will be equal in 49 years
 
 ---
 
 ## **Conclusions**
 - **Hypothesis 1:** Supported – Winning times have consistently improved; men are near the 2h01 barrier and women set a breakthrough with 2h11 in 2023. Berlin is confirmed as the fastest course, with nearly all world records since 2003.  
-- **Hypothesis 2:** Supported – The performance gap between men and women has narrowed.  
+- **Hypothesis 2:** Supported – The performance gap score between men and women has narrowed.  
 - **Hypothesis 3:** Supported – African participation and victories have grown strongly (Kenya and Ethiopia lead since the 1990s).  
 - **Hypothesis 4:** Supported – Female participation has risen steadily since 1974.  
 
@@ -124,9 +127,7 @@ first_project/
 ├── 📂 notebooks
 ├── 📂 slides
 ├── 📂 sql_scripts
-├── 📂 src
-│ └── 📄 functions.py
-│
+
 ├── 📄 config.yaml
 ├── 📄 main.py
 ├── 📄 pyproject.toml
